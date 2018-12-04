@@ -1,0 +1,109 @@
+body {
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: Courier;
+}
+
+h1 {
+	font-style: italic;
+}
+
+h2 {
+	text-decoration: underline;
+	color: #a83733;
+}
+
+button {
+	font-size: 40px;
+	color: black;
+	border-radius: 30px;
+	padding: 10px;
+	background-color: #a83733;
+	font-family: Courier;
+}
+
+/* LINKS */
+a:link {
+	color: #a83733;
+}
+
+a:visited {
+	color: #a35b37;
+}
+
+a:hover {
+	color: #a1c0dc;
+}
+
+a:active {
+	color: #9e9190;
+}
+
+
+.vulf {
+	width: 200px;
+
+}
+
+.hill {
+	font-size: 30px;
+}
+
+.albumpic {
+	width: 350px;
+	float: right;
+}
+
+.merch1 {
+	width: 550px;
+
+}
+
+.merch2, .merch3 {
+	width: 450px;
+}
+
+.title {
+	color: #a83733;
+}
+
+.members {
+	width: 350px;
+	float: left;
+	padding-right: 10px;
+}
+
+.button {
+	padding: 10px;
+	font-size: 30px;
+	border: dashed 2px black;
+	color: #a83733;
+	width: 150px;
+	margin-left: 315px;
+	border-radius: 30px;
+	font-family: Courier;
+}
+
+.wiki {
+	text-align: right;
+}
+
+#about {
+	text-align: left;
+	width: 700px;
+	padding-left: 60px;
+	text-indent: 50px;
+	font-size: 17px;
+}
+
+#album1, #album2, #album3, #album4, #album5, #album6, #album7, #album8 {
+	text-align: left;
+	font-size: 15px;
+}
+
+#tour {
+	border: dotted 1px black;
+	width: 300px;
+	margin-left: 250px;
+}
